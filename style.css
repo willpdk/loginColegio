@@ -15,3 +15,15 @@ body{
 .conteudo-titulo{
     text-align: center;
 }
+
+.conteudo-senha{
+    margin-top: 80px;
+    background-color: #6c8fb4;
+    padding: 24px;
+    text-align: center;
+}
+
+.conteudo{
+    max-width: 1200px;
+    margin: 0 auto;
+}
